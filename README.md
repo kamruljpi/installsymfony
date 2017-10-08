@@ -11,6 +11,12 @@ for example : **php symfony.phar new firstproject** to download Symfony Latest V
 
 Then, you can :
 Change your current directory to **/var/www/html/firstproject** on Linux or  **C:\wamp\www\firstproject** or **C:\xampp\htdocs\firstproject** on windows;
+Then execute this command to run your application
+
+**php bin/console server:run**
+
+Then browse to the url **http://localhost::8000** url
+
 Configure your application in the below file: 
 
 **app/config/parameters.yml** file
