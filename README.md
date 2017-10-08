@@ -2,7 +2,7 @@
 
 To downloads symfony, you need to download symfony.phar (a small file PHP) from this link ( http://symfony.com/installer )
 
-Then, you have to move in your usual Web directory C:\wamp\www on windows and /var/www on Linux ;
+Then, you have to move in your usual Web directory C:\wamp\www or C:\xamp\htdocs on windows and /var/www on Linux ;
 Execute php symfony.phar new firstproject for example : symfony.phar new firstproject to download Symfony 3.3.X.
 
 Then, you can :
