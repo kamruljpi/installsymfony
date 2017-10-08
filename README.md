@@ -5,7 +5,7 @@ To downloads symfony, you need to download symfony.phar (a small file PHP) from 
 Then, you have to move in your usual Web directory C:\wamp\www or C:\xamp\htdocs on windows and /var/www on Linux ;
 Execute the below command : 
 
-** php symfony.phar new your_project_name ** 
+**php symfony.phar new your_project_name** 
 
 for example : ** symfony.phar new firstproject ** to download Symfony Latest Version
 
