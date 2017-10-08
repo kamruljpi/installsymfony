@@ -7,7 +7,7 @@ Execute the below command :
 
 **php symfony.phar new your_project_name** 
 
-for example : **symfony.phar new firstproject** to download Symfony Latest Version
+for example : **php symfony.phar new firstproject** to download Symfony Latest Version
 
 Then, you can :
 Change your current directory to **/var/www/html/firstproject** on Linux or  **C:\wamp\www\firstproject** or **C:\xampp\htdocs\firstproject** on windows;
